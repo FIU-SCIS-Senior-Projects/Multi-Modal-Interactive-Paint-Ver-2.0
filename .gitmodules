@@ -1,3 +1,9 @@
 [submodule "obsidian"]
 	path = obsidian
 	url = https://github.com/OpenHID/obsidian.git
+[submodule "InteractivePaintv3"]
+	path = InteractivePaintv3
+	url = https://github.com/OpenHID/InteractivePaintv3.git
+[submodule "VRGame"]
+	path = VRGame
+	url = https://github.com/OpenHID/VRGame.git
