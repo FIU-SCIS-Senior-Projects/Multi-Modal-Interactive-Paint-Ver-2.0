@@ -7,7 +7,7 @@
 
 A wrapper repo for the Fall 2016 Senior Project.
 
-## About
+## Directory Structure
 
 Each submodule in this repo represents the work done by the individual developer during their senior project. 
 
@@ -21,4 +21,9 @@ Each submodule in this repo represents the work done by the individual developer
 - **Vive Interactive Paint** - The folders Poster, Presentation.
 - **Interactive Paint Core** - The folders Poster, Presentation.
 
-In addition, you can check the google drive of the project.
+In addition, you can check the google drive of the project, and on the root directory of the project in:
+
+- Documents
+- Posters
+- Presentations
+- Videos
