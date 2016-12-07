@@ -7,6 +7,16 @@
 
 A wrapper repo for the Fall 2016 Senior Project.
 
+## Installation
+
+Type the following in your command line:
+
+```bash
+git clone https://github.com/FIU-SCIS-Senior-Projects/Multi-Modal-Interactive-Paint-Ver-2.0.git
+cd Multi-Modal-Interactive-Paint-Ver-2.0
+git submodule update
+```
+
 ## Directory Structure
 
 Each submodule in this repo represents the work done by the individual developer during their senior project. 
@@ -27,3 +37,4 @@ In addition, you can check the google drive of the project, and on the root dire
 - Posters
 - Presentations
 - Videos
+
